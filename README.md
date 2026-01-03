@@ -5,12 +5,12 @@ Este projeto consiste na criação de um caderno temático no NotebookLM, utiliz
 
 Conteúdos desenvolvidos:
 
-Curadoria de fontes
+- Curadoria de fontes
 
-Objetivos de estudo
+- Objetivos de estudo
 
-Perguntas estratégicas
+- Perguntas estratégicas
 
-Testes de prompts
+- Testes de prompts
 
-Resumos e glossário
+- Resumos e glossário
